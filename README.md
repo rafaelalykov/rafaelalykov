@@ -11,7 +11,7 @@
 
 
 
-### 🤝 Социальные сети:
+### Социальные сети:
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/rafaelalykov/" target="_blank">
@@ -19,6 +19,9 @@
     </a>
     <a href="https://t.me/inrafgram" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
+    </a>
+    <a href="https://drive.google.com/file/d/1ooPnwFFqdHrIIx1j4hIBR_JL8CyvqI2i/view?usp=sharing" target="_blank">
+      <img src="https://img.icons8.com/?size=512&id=39372&format=png" width="40" height="40" alt="cv" />
     </a>
   </div>
 

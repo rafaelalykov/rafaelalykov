@@ -77,3 +77,11 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" title="selenium" alt="selenium" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pytest_logo.svg/1200px-Pytest_logo.svg.png?20220319015434" title="pytest" alt="pytest" width="40" height="40"/>&nbsp
 </div>
+
+
+
+<!--Projects-->
+
+## 💾 Projects
+### UI autotests
+##### <img width="3%" title="GitHub" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"> [DemoUIQa](https://github.com/rafaelalykov/auto_test_qa_practice)

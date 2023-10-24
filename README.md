@@ -79,7 +79,6 @@
 </div>
 
 
-https://github.com/rafaelalykov/postman_dummyapi
 <!--Projects-->
 
 ## 💾 Projects

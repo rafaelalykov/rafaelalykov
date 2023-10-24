@@ -87,4 +87,4 @@ https://github.com/rafaelalykov/postman_dummyapi
 ##### <img width="3%" title="GitHub" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"> [DemoUIQa](https://github.com/rafaelalykov/auto_test_qa_practice)
 
 ### UI autotests
-##### <img width="3%" title="GitHub" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"> [POSTMAN]([https://github.com/rafaelalykov/postman_dummyapi])
+##### <img width="3%" title="GitHub" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"> [POSTMAN](https://github.com/rafaelalykov/postman_dummyapi)
